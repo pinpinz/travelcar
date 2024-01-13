@@ -1351,7 +1351,7 @@ h1,  h2,  h3,  h4,  h5,  h6{
 }
 .mh{
   --tw-bg-opacity: 1;
-  background-color: rgb(243 106 141 / var(--tw-bg-opacity));
+  background-color: rgb(96, 119, 248);
 }
 .nh{
   --tw-bg-opacity: 1;
@@ -1359,7 +1359,7 @@ h1,  h2,  h3,  h4,  h5,  h6{
 }
 .oh{
   --tw-bg-opacity: 1;
-  background-color: rgb(250 0 0 / var(--tw-bg-opacity));
+  background-color: rgb(36, 36, 35);
 }
 .ph{
   background-color: transparent;

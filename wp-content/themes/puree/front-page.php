@@ -45,10 +45,10 @@
             <!-- Small Features Item -->
             <div class="animate_top kn to/3 tc cg oq">
               <div class="tc wf xf cf ae cd rg mh">
-                <img src="<?php bloginfo('template_directory');?>/images/icon-01.svg" alt="Icon" />
+                <img src="<?php bloginfo('template_directory');?>/images/24jam.png" alt="Icon" />
               </div>
               <div>
-                <h4 class="ek yj go kk wm xb">Layanan Kami 24jam</h4>
+                <h4 class="ek yj go kk wm xb">Layanan 24jam</h4>
                 <p>Admin Kami siap 24 jam untuk melayani anda.</p>
               </div>
             </div>
@@ -531,7 +531,7 @@
             <!-- Slider main container -->
             <div class="swiper testimonial-01">
               <!-- Additional required wrapper -->
-              <div class="swiper-wrapper">
+              <div class="ukuran swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
                   <div class="i hh rm sg vk xm bi qj">
@@ -542,7 +542,7 @@
                     <div class="tc sf rn tn un zf dp">
                       <img class="bf rounded-xl" src="<?php bloginfo('template_directory');?>/images/kevin.png" alt="User" />
 
-                      <div class="ukuran">
+                      <div >
                         <img src="<?php bloginfo('template_directory');?>/images/icon-quote.svg" alt="Quote" />
                         <p class="ek ik xj _p kc fb">
                         Kami baru saja kembali dari liburan luar biasa kami. Layanan sopir mereka sangat membantu dalam
@@ -555,8 +555,6 @@
                             <span class="rc ek xj kk wm zb">Kevin Jhosua</span>
                             <span class="rc">Mahasiswa</span>
                           </div>
-
-                          <img class="rk" src="<?php bloginfo('template_directory');?>/images/fb.jpg" alt="Brand" />
                         </div>
                       </div>
                     </div>
@@ -584,8 +582,6 @@
                               <span class="rc ek xj kk wm zb">Mukidhi</span>
                               <span class="rc">Wirausaha</span>
                             </div>
-                  
-                            <img class="rk" src="<?php bloginfo('template_directory');?>/images/fb.jpg" alt="Brand" />
                           </div>
                         </div>
                       </div>
@@ -613,8 +609,6 @@
                               <span class="rc ek xj kk wm zb">Samsul Huda</span>
                               <span class="rc">Pegawai Swasta</span>
                             </div>
-                  
-                            <img class="rk" src="<?php bloginfo('template_directory');?>/images/fb.jpg" alt="Brand" />
                           </div>
                         </div>
                       </div>
@@ -642,8 +636,6 @@
                               <span class="rc ek xj kk wm zb">Nur Halimah</span>
                               <span class="rc">Ibu Rumah Tangga</span>
                             </div>
-                  
-                            <img class="rk" src="<?php bloginfo('template_directory');?>/images/fb.jpg" alt="Brand" />
                           </div>
                         </div>
                       </div>

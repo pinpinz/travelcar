@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CV - FE Transindo</title>
-  <link rel="icon" href="<?php bloginfo('template_directory');?>/images/ico/favicon.ico"><link href="<?php bloginfo('template_directory');?>/style.css" rel="stylesheet"></head>
+  <link rel="icon" href="<?php bloginfo('template_directory');?>/images/ico/favicon.ico"><link href="<?php bloginfo('template_directory');?>/styless.css" rel="stylesheet"></head>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <body
     x-data="{ page: 'home', 'darkMode': true, 'stickyMenu': false, 'navigationOpen': false, 'scrollTop': false }"
